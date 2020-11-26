@@ -1,6 +1,6 @@
 {
   "name": "login-miniapp",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": false,
   "scripts": {
     "android": "react-native run-android",
@@ -35,5 +35,17 @@
   },
   "keywords": [
     "ern-miniapp"
-  ]
+  ],
+  "description": "Login miniapp",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdominguezr/login-miniapp.git"
+  },
+  "author": "Juan Antonio Dominguez Ramirez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdominguezr/login-miniapp/issues"
+  },
+  "homepage": "https://github.com/jdominguezr/login-miniapp#readme"
 }

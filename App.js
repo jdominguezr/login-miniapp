@@ -17,7 +17,7 @@ import {
 } from 'react-native';
 
 
-export default class LoginMiniapp extends Component {
+export class LoginMiniapp extends Component {
 
 
   constructor(props) {
